@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 4820493278488028}
   - component: {fileID: 95031070982478732}
   m_Layer: 0
-  m_Name: CyberSoldier
+  m_Name: Robot_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
